@@ -1,5 +1,6 @@
-# IBM Intelligence Suite data import and export
+# IBM Envizi Supply Chain Intelligence
 
-This repository contains developer information about the IBM intelligence suite data import and export features.
+This repository contains technical topics about IBM Envizi Supply Chain for implementation teams.
 
-Go to the [wiki](https://github.com/IBM/intelligence-suite-data-import-export/wiki) to get started.
+Go to the [wiki](https://github.com/IBM/envizi-supply-chain/wiki) to get started.
+
