@@ -1,0 +1,7 @@
+﻿levelType,code,catalogType,name
+CATEGORY1,LT-North,OPERATIONS,LightTree East
+CATEGORY1,LT-South,OPERATIONS,LightTree West
+CATEGORY2,LT-Northeast,OPERATIONS,LightTree Northeast
+CATEGORY2,LT-Northwest,OPERATIONS,LightTree Northwest
+CATEGORY2,LT-Southeast,OPERATIONS,LightTree Southeast
+CATEGORY2,LT-Southwest,OPERATIONS,LightTree Southwest

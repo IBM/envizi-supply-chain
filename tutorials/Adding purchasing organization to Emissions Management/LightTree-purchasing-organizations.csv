@@ -1,0 +1,11 @@
+﻿organizationIdentifier,orgType,location.locationIdentifier,name,category1.code,category1.leveltype,category1.catalogType,category2.code,category2.leveltype,category2.catalogType,sourceLink,primaryContact.contactIdentifier
+LightTree 1,OPERATIONS,LT-1,LightTree division 1,LT-North,CATEGORY1,OPERATIONS,LT-Northeast,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 2,OPERATIONS,LT-2,LightTree division 2,LT-North,CATEGORY1,OPERATIONS,LT-Northeast,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 3,OPERATIONS,LT-3,LightTree division 3,LT-North,CATEGORY1,OPERATIONS,LT-Northwest,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 4,OPERATIONS,LT-4,LightTree division 4,LT-North,CATEGORY1,OPERATIONS,LT-Northwest,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 5,OPERATIONS,LT-5,LightTree division 5,LT-North,CATEGORY1,OPERATIONS,LT-Northwest,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 6,OPERATIONS,LT-6,LightTree division 6,LT-South,CATEGORY1,OPERATIONS,LT-Southeast,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 7,OPERATIONS,LT-7,LightTree division 7,LT-South,CATEGORY1,OPERATIONS,LT-Southeast,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 8,OPERATIONS,LT-8,LightTree division 8,LT-South,CATEGORY1,OPERATIONS,LT-Southeast,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 9,OPERATIONS,LT-9,LightTree division 9,LT-South,CATEGORY1,OPERATIONS,LT-Southwest,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
+LightTree 10,OPERATIONS,LT-10,LightTree division 10,LT-South,CATEGORY1,OPERATIONS,LT-Southwest,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
