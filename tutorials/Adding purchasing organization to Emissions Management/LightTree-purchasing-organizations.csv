@@ -1,4 +1,4 @@
-﻿organizationIdentifier,orgType,location.locationIdentifier,name,category1.code,category1.leveltype,category1.catalogType,category2.code,category2.leveltype,category2.catalogType,sourceLink,primaryContact.contactIdentifier
+﻿organizationIdentifier,orgType,location.locationIdentifier,name,category1.code,category1.levelType,category1.catalogType,category2.code,category2.levelType,category2.catalogType,sourceLink,primaryContact.contactIdentifier
 LightTree 1,OPERATIONS,LT-1,LightTree division 1,LT-North,CATEGORY1,OPERATIONS,LT-Northeast,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
 LightTree 2,OPERATIONS,LT-2,LightTree division 2,LT-North,CATEGORY1,OPERATIONS,LT-Northeast,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
 LightTree 3,OPERATIONS,LT-3,LightTree division 3,LT-North,CATEGORY1,OPERATIONS,LT-Northwest,CATEGORY2,OPERATIONS,http://lighttree.com,LightTreeJordonMorgan
